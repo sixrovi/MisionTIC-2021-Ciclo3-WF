@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpdnG4pt9WNV7ytoyc32dKSK8sGYtw2sqTMlonMi+5cfdvlV6XmnIFCsrFJ0NQ/aZY1nC6pBAjK2LarUrND0iA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\sixto rv\\Documents\\Proyectos\\Mintic\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Frontend\\HolaWeb.App.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sixto rv\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sixto rv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sixto rv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sixto rv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -6,3 +6,13 @@ C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.deps.json
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\bin\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.AssemblyReference.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfoInputs.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.AssemblyInfo.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Dominio\obj\Debug\netstandard2.0\HolaWeb.App.Dominio.pdb

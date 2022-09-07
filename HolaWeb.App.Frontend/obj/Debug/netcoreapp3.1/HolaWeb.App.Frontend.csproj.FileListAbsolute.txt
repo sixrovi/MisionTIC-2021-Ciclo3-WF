@@ -38,3 +38,45 @@ C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.dll
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.pdb
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.StaticWebAssets.xml
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.exe
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.deps.json
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.runtimeconfig.json
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.runtimeconfig.dev.json
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.AssemblyReference.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.AssemblyInfoInputs.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.AssemblyInfo.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CoreCompileInputs.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorAssemblyInfo.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorAssemblyInfo.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HolaWeb.App.Frontend.StaticWebAssets.Manifest.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.TagHelpers.input.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.TagHelpers.output.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorCoreGenerate.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\List.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorTargetAssemblyInfo.cache
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorTargetAssemblyInfo.cs
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CopyComplete
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.dll
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
+D:\Users\sixto rv\Documents\Proyectos\Mintic\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.genruntimeconfig.cache
